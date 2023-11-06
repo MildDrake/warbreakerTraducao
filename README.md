@@ -9,4 +9,4 @@ Eu não escrevi este livro, apenas estou a traduzi-lo. Estou a fazê-lo de forma
 Eu li Mistborn em português, pela Saída de Emergência e decidi depois ler Warbreaker como fiquei a saber que estava disponível gratuitamente em Inglês de forma oficial. É uma pena este autor não ter mais traduções, mas eu estou cá para isso. Aproveitem.
 
 
-Podem fazer download do pdf original ou do meu própri
+Para lerem a tradução é só descarregarem traducaoDeWarbreaker.pdf, mas também têm acesso ao texto orginal, o único outro pdf disponível.
