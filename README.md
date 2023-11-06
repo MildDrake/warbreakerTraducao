@@ -7,3 +7,6 @@ Eu não escrevi este livro, apenas estou a traduzi-lo. Estou a fazê-lo de forma
 É uma pena que a fantasia tenha tão poucas traduções para o português de Portugal. Eu tenho os meus conhecimentos de inglês e do Cosmere, acredito que estou apto para esta tarefa. Por isto quero trazer esta tradução como sendo uma ponte linguístíca. O texto será o mais fielmente traduzido, porém também localizado. Terei que tomar algumas liberdades, já que não tenho todas as notas do editor e também porque, estou a fazer isto apenas para realização pessoal.
 
 Eu li Mistborn em português, pela Saída de Emergência e decidi depois ler Warbreaker como fiquei a saber que estava disponível gratuitamente em Inglês de forma oficial. É uma pena este autor não ter mais traduções, mas eu estou cá para isso. Aproveitem.
+
+
+Podem fazer download do pdf original ou do meu própri
