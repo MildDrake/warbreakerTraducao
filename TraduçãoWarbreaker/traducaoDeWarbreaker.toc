@@ -1,3 +1,1 @@
 \babel@toc {portuguese}{}
-\contentsline {chapter}{\numberline {1}Agradecimentos}{5}%
-\contentsline {chapter}{\numberline {2}Prelúdio}{9}%

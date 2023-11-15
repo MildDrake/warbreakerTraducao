@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.9)  7 NOV 2023 23:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.9)  14 NOV 2023 20:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -166,45 +166,41 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [4
 
-]
-Cap\'{\i }tulo 1.
-[5] [6] [7] [8
+] [5] [6] [7
 
-]
-Cap\'{\i }tulo 2.
-[9] [10] [11]
+] [8]
 Overfull \hbox (1.04663pt too wide) in paragraph at lines 103--104
 []\T1/cmr/m/n/10.95 - Proteje-me - co-man-dou ele, e o manto aqui-e-tou. Levant
 ou-se, colocando-
  []
 
-[12] [13] [14] (./traducaoDeWarbreaker.aux) ) 
+[9] [10] [11] [12] [13] [14] [15
+
+] (./traducaoDeWarbreaker.aux) ) 
 Here is how much of TeX's memory you used:
- 2450 strings out of 480608
- 30898 string characters out of 5903630
+ 2443 strings out of 480608
+ 30812 string characters out of 5903630
  276651 words of memory out of 5000000
- 18334 multiletter control sequences out of 15000+600000
- 550711 words of font info for 70 fonts, out of 8000000 for 9000
+ 18330 multiletter control sequences out of 15000+600000
+ 548378 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,27p,721b,194s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dis
-t/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2020/texmf-dist/
-fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2020/texmf-dist/fo
-nts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2020/texmf-dist/font
-s/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2020/texmf-dist/fonts/
-type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2020/texmf-dist/fonts/ty
-pe1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type
-1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/
-public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/pu
-blic/cm-super/sfrm1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/publ
-ic/cm-super/sfrm1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
-/cm-super/sfrm2488.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/c
-m-super/sfsl1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-
-super/sfti1095.pfb>
-Output written on traducaoDeWarbreaker.pdf (14 pages, 208336 bytes).
+ 30i,8n,27p,743b,194s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/d
+vips/cm-super/cm-super-t1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/p
+ublic/cm-super/sfbx2488.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm0600.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/publi
+c/cm-super/sfrm0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/
+cm-super/sfrm0900.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm
+-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-s
+uper/sfrm1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super
+/sfrm2488.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
+fsl1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sft
+i1095.pfb>
+Output written on traducaoDeWarbreaker.pdf (15 pages, 176598 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
